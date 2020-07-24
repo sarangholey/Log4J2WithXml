@@ -1,0 +1,6 @@
+
+[TRACE] 2020-07-24 15:14:48.497 [main] testlogger - This is info trace message
+[INFO ] 2020-07-24 15:14:48.500 [main] testlogger - This is info log message
+[ERROR] 2020-07-24 15:14:48.500 [main] testlogger - This is error log message
+[WARN ] 2020-07-24 15:14:48.500 [main] testlogger - This is error warn message
+[FATAL] 2020-07-24 15:14:48.500 [main] testlogger - This is error fatal message
